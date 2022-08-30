@@ -1,0 +1,327 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+header {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    background-color: #fff;
+
+}
+
+.logo a {
+    font-size: 20px;
+    margin-left: 300px;
+    font-weight: 500;
+    color: #000000E6;
+}
+
+.hbutton a {
+    font-size: 16px;
+    padding: 14px 16px;
+    margin-right: 300px;
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    font-weight: 400;
+    line-height: 1.5;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+}
+
+.section1 {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+    height: 661px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+.head1 h1 {
+    width: 636px;
+    height: 116px;
+    font-size: 48px;
+    color: #fff;
+    margin-left: 650px;
+    padding-top: 200px;
+
+
+}
+
+
+.input input {
+    height: 64px;
+    width: 509px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    border-radius: 7px;
+    border: none;
+    margin-left: 620px;
+    padding-left: 20px;
+    outline: none;
+
+}
+
+.sbutton a {
+    padding: 1.4rem 1.5rem;
+    font-size: 1.25rem;
+    border-radius: 0.3rem;
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    margin-left: 30px;
+
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.section2 {
+    height: 454px;
+    background-color: #F8F9FA;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.icontext h3 {
+    font-size: 28px;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: center;
+    margin-top: 15px;
+
+
+}
+
+.icontext p {
+    font-size: 1.25rem;
+    font-weight: 300;
+    width: 60%;
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 15px;
+
+}
+
+.iconimg {
+    text-align: center;
+
+}
+
+.step1 {
+    display: flex;
+    width: 100%;
+    height: 480px;
+}
+
+.step2 {
+    display: flex;
+    width: 100%;
+    height: 480px;
+}
+
+.step3 {
+    display: flex;
+    width: 100%;
+    height: 480px;
+}
+
+.step1 .stepimg {
+    width: 50%;
+    height: 480px;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-1.jpg);
+    min-height: 30rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+
+.steptext {
+    width: 50%;
+    height: 480px;
+    padding-left: 100px;
+    align-items: center;
+
+}
+
+.steptext h2 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-top: 200px;
+    color: #212529;
+}
+
+.steptext p {
+    font-size: 20px;
+    font-weight: 300;
+    color: #212529;
+    width: 75%;
+}
+
+.step2 .stepimg {
+    width: 50%;
+    height: 480px;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-2.jpg);
+    min-height: 30rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.step3 .stepimg {
+    width: 50%;
+    height: 480px;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-3.jpg);
+    min-height: 30rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.top img {
+    width: 192px;
+    height: 192px;
+    border-radius: 50%;
+    box-shadow: 0px 5px 5px 0px #adb5bd;
+}
+
+.foot {
+    text-align: center;
+    width: 85%;
+    margin-left: 25px;
+}
+
+.section4 {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+    background-color: #F8F9FA;
+}
+
+.gallery .box {
+    text-align: center;
+    width: 288px;
+    height: 312px;
+}
+
+.head2 h2 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 70px;
+}
+
+.middle h5 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.foot p {
+    font-size: 16px;
+    color: #252129;
+    margin-top: 10px;
+}
+
+.section5 {
+    width: 100%;
+    padding: 120px 0px;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+    
+}
+
+.head3 h2 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffff;
+    margin-bottom: 30px;
+}
+.head3{
+    text-align: center;
+}
+form input{
+    height: 64px;
+    width: 509px;
+    font-size: 1.25rem;
+    border-radius: 0.3rem;
+    outline: none;
+    border: 1px solid #ced4da;
+    padding-left: 17px;
+    
+}
+form button{
+    padding: 1.1rem 1.5rem;
+    font-size: 1.25rem;
+    border-radius: 0.3rem;
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    margin-left: 30px;
+    border: 1px solid #0d6efd;
+    cursor: pointer;
+}
+form{
+    text-align: center; 
+    
+}
+footer .left ul{
+    display: flex;
+    text-align: center;
+}
+footer .left ul li{
+ margin-left: 40px;
+}
+footer .left ul li a{
+    text-decoration: underline;
+    color: #0d6efd;
+}
+footer{
+    padding: 60px 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.left p{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.right a{
+    margin-left: 20px;
+}
+.right a i{
+    font-size: 30px;
+    color: #0d6efd;
+}
+.right{
+    
+}
